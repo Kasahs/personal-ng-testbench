@@ -1,0 +1,14 @@
+{
+  "name": "ng-testbench",
+  "version": "1.0.0",
+  "description": "A personal testbench for experiments with AngularJS and modules written using AngularJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "shasak",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
+}
